@@ -14,4 +14,4 @@ This link was used as a reference link for model training: https://tensorflow-ob
 Here is how the final trained model out looks like:
 ![trained image](https://user-images.githubusercontent.com/100400706/208668797-061ea379-05c4-4cf5-91ce-965bd842e6d6.png)
 <br><br>
-THankyou for reading :)
+Thankyou for reading :)
